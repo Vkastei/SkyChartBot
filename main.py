@@ -101,4 +101,4 @@ async def channel(ctx):
         await ctx.send("Du hörst keinem Channel zu")
 
 
-client.run('OTQxMDczNjExMTg2Mzk3MjQ0.YgQpGQ.sTHZWH_sbWSWZq-T5Kri8VTvSoQ')
+client.run(TOKEN)
